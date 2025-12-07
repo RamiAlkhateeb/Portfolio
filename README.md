@@ -4,7 +4,7 @@ A clean, responsive portfolio to showcase my experience as a Backend Engineer an
 
 ## 🚀 Live Demo
 
-- Portfolio: https://ramialkhateeb.github.io/portfolio  
+- Portfolio: https://ramialkhateeb.github.io/Portfolio/
 - Tech Stack: HTML, CSS, JavaScript
 
 ## 👋 About Me
